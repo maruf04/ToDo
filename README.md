@@ -5,7 +5,7 @@
 
 
 ```
-git clone https://github.com/maruf04/ToDo.github.io.git
+git clone https://github.com/maruf04/ToDo.git
 ```
 
 ## github.io try it now with
