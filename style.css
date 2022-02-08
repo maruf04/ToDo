@@ -1,0 +1,22 @@
+body {
+    border: 3px solid black;
+    padding: 10px;
+    width: 40%;
+    background: linear-gradient(90deg, #ff0 50%,#333 25% );
+}
+
+.center {
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+    font-size: large;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+    background: linear-gradient(90deg, rgb(241, 241, 241) 10%,#ff0 90% );
+}
+.thtext {
+    text-decoration: line-through;
+}
